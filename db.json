@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "NavItems": [
+    {"name": "home", "link": "/"},
+    {"name": "about", "link": "/about"},
+  ]
 }
